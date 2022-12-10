@@ -1,0 +1,16 @@
+.main-container {
+  display: flex;
+}
+
+.editor {
+  flex: 50%;
+}
+
+.example {
+  flex: 50%;
+  width: 50%;
+}
+
+.error-message {
+  color: red;
+}
